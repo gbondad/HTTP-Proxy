@@ -1,9 +1,3 @@
-/* 
- * CPSC 441 Assignment 1
- * Juan Bondad 30050828
- * Based on skeleton code provided by Rachel Mclean
- * reference https://stackoverflow.com/questions/9053687/trying-to-replace-words-in-a-string
- */
 
 /* standard libraries*/
 #include <stdio.h>
